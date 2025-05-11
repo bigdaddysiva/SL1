@@ -6,14 +6,14 @@ slug = "preswald-project"
 entrypoint = "hello.py"    
 
 [branding]
-name = "Preswald Project"
+name = "Data Science Intern"
 logo = "images/logo.png"
-favicon = "images/favicon.ico"
-primaryColor = "#F89613"
+favicon = "images/favicon-32x32.png"
+primaryColor = "#69582c"
 
 [data.sample_csv]
 type = "csv"
-path = "data/sample.csv"
+path = "data/International_Education_Cost.csv"
 
 [logging]
 level = "INFO"  
